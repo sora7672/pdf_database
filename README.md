@@ -22,3 +22,7 @@ automatically (with also checking before if files exist, maybe with hash file va
 ## Technical infos
 - Python with SQLite
 - Rest to follow
+
+
+## Ideas
+We should add categorys, based on keywords as prechoice (one item can have mutliple categorys)
